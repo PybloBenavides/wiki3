@@ -112,7 +112,7 @@ Al convertirte en un Maestro Historiador, demostrarás un profundo conocimiento 
 
 Embárcate en emocionantes misiones que te llevarán a desentrañar los secretos del pasado. Investiga documentos históricos, resuelve enigmas y sigue pistas para descubrir la verdad detrás de los eventos más intrigantes de la historia.
 
-## 🛠️ Tecnologías
+### 🛠️ Tecnologías
 
 ### 💼 Backend
 
@@ -120,43 +120,32 @@ Embárcate en emocionantes misiones que te llevarán a desentrañar los secretos
 
 ![Python](https://img.shields.io/badge/Lenguaje-Python-blue) ![Flask](https://img.shields.io/badge/Framework-Flask-lightgrey)
 
-##### Desarrollo Robusto con Python
-
-En el corazón de nuestro proyecto se encuentra Python, un lenguaje versátil y poderoso que forma la base de nuestro backend. Python nos permite manejar datos complejos y ofrecer respuestas rápidas a las solicitudes de los usuarios.
-
-##### Flask: Potencia Tu Backend
-
-Utilizamos Flask, un marco web ligero, para crear una base sólida para nuestra plataforma. Flask nos permite desarrollar de manera eficiente y escalable, brindando una estructura flexible para nuestras funcionalidades interactivas.
-
-#### APIs de IA
-
-![Hugging Face](https://img.shields.io/badge/API-Hugging%20Face-brightgreen) ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange) ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)
-
-##### Procesamiento de Lenguaje Natural con Transformers
-
-Transformers es una librería de Hugging Face que revoluciona el procesamiento de lenguaje natural. Utilizamos modelos pre-entrenados como BERT y GPT para comprender y generar texto histórico. Esto nos permite realizar análisis avanzados de documentos históricos y generar contenido enriquecedor.
-
-##### TensorFlow para Generación de Imágenes
-
-Utilizamos TensorFlow, una de las librerías más populares de aprendizaje automático, para generar imágenes históricas. Mediante modelos generativos, creamos representaciones visuales de momentos clave en la historia de España. Estas imágenes ayudan a los usuarios a visualizar la información de manera impactante.
-
-##### Text-to-Speech y Speech-to-Text con Hugging Face
-
-Integramos modelos de Hugging Face para realizar conversiones de texto a voz (TTS) y voz a texto (STT). Esto permite a los usuarios interactuar con la historia a través de la voz, convirtiendo el contenido en una experiencia auditiva inmersiva.
+Python es el lenguaje de programación fundamental que impulsa el backend de wiki3. Su versatilidad y amplia comunidad hacen que sea ideal para manejar datos, procesar solicitudes y proporcionar respuestas rápidas. Flask, un marco web minimalista pero poderoso, se utiliza para crear endpoints eficientes y construir la estructura base de la plataforma.
 
 ### 🖼️ Frontend
 
+#### React y Tailwind CSS
+
 ![React](https://img.shields.io/badge/Framework-React-blue) ![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind%20CSS-brightgreen)
 
-#### Interfaz Interactiva con React
+React es una librería de JavaScript ampliamente utilizada para construir interfaces de usuario interactivas y receptivas. En el frontend de wiki3, React se encarga de crear una experiencia de usuario fluida y dinámica, permitiendo a los usuarios explorar la historia de España de manera intuitiva. Tailwind CSS complementa a React, proporcionando un marco de diseño utilitario que agiliza el desarrollo y garantiza una apariencia moderna y coherente en toda la plataforma.
 
-Nuestro frontend está construido con React, una librería de JavaScript ampliamente utilizada para crear interfaces de usuario interactivas. Utilizamos React para diseñar una experiencia atractiva y receptiva que permita a los usuarios explorar la historia de España de manera intuitiva.
+#### Procesamiento de Lenguaje Natural
 
-#### Diseño Moderno con Tailwind CSS
+##### Hugging Face Transformers
 
-Tailwind CSS es un marco de diseño utilitario que nos permite crear una interfaz moderna y estilizada. Utilizamos componentes y estilos predefinidos para agilizar el desarrollo y mantener una coherencia visual en toda la plataforma.
+![Hugging Face](https://img.shields.io/badge/Framework-Hugging%20Face-brightgreen)
 
-## 📊 Procesamiento de Lenguaje Natural
+Hugging Face ofrece la plataforma Transformers, que es un conjunto de herramientas y modelos pre-entrenados para el procesamiento de lenguaje natural (NLP). Utilizamos esta tecnología para comprender y generar texto histórico de manera avanzada. Los modelos como BERT y GPT nos permiten analizar documentos históricos, descubrir patrones y generar contenido enriquecedor basado en el contexto histórico.
+
+### 🤖 Inteligencia Artificial
+
+#### Modelos de Lenguaje de Hugging Face
+
+![Hugging Face](https://img.shields.io/badge/Framework-Hugging%20Face-brightgreen)
+
+Hugging Face ofrece una gama de modelos de lenguaje pre-entrenados que impulsan la generación de contenido en wiki3. Estos modelos comprenden el contexto y la semántica de los datos históricos, permitiendo la creación de contenido coherente y contextual. Además, estos modelos permiten a los usuarios interactuar con la plataforma mediante consultas en lenguaje natural.
+
 
 
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-azul)](https://opensource.org/licenses/MIT)
