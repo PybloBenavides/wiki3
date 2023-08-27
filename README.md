@@ -112,13 +112,52 @@ Al convertirte en un Maestro Historiador, demostrarás un profundo conocimiento 
 
 Embárcate en emocionantes misiones que te llevarán a desentrañar los secretos del pasado. Investiga documentos históricos, resuelve enigmas y sigue pistas para descubrir la verdad detrás de los eventos más intrigantes de la historia.
 
-### 🛠️ Tecnologías
+## 🛠️ Tecnologías
 
-### ...
+### 💼 Backend
 
-[Continúa el contenido en el documento completo]
+#### Python y Flask
 
----
+![Python](https://img.shields.io/badge/Lenguaje-Python-blue) ![Flask](https://img.shields.io/badge/Framework-Flask-lightgrey)
+
+##### Desarrollo Robusto con Python
+
+En el corazón de nuestro proyecto se encuentra Python, un lenguaje versátil y poderoso que forma la base de nuestro backend. Python nos permite manejar datos complejos y ofrecer respuestas rápidas a las solicitudes de los usuarios.
+
+##### Flask: Potencia Tu Backend
+
+Utilizamos Flask, un marco web ligero, para crear una base sólida para nuestra plataforma. Flask nos permite desarrollar de manera eficiente y escalable, brindando una estructura flexible para nuestras funcionalidades interactivas.
+
+#### APIs de IA
+
+![Hugging Face](https://img.shields.io/badge/API-Hugging%20Face-brightgreen) ![TensorFlow](https://img.shields.io/badge/Framework-TensorFlow-orange) ![PyTorch](https://img.shields.io/badge/Framework-PyTorch-red)
+
+##### Procesamiento de Lenguaje Natural con Transformers
+
+Transformers es una librería de Hugging Face que revoluciona el procesamiento de lenguaje natural. Utilizamos modelos pre-entrenados como BERT y GPT para comprender y generar texto histórico. Esto nos permite realizar análisis avanzados de documentos históricos y generar contenido enriquecedor.
+
+##### TensorFlow para Generación de Imágenes
+
+Utilizamos TensorFlow, una de las librerías más populares de aprendizaje automático, para generar imágenes históricas. Mediante modelos generativos, creamos representaciones visuales de momentos clave en la historia de España. Estas imágenes ayudan a los usuarios a visualizar la información de manera impactante.
+
+##### Text-to-Speech y Speech-to-Text con Hugging Face
+
+Integramos modelos de Hugging Face para realizar conversiones de texto a voz (TTS) y voz a texto (STT). Esto permite a los usuarios interactuar con la historia a través de la voz, convirtiendo el contenido en una experiencia auditiva inmersiva.
+
+### 🖼️ Frontend
+
+![React](https://img.shields.io/badge/Framework-React-blue) ![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind%20CSS-brightgreen)
+
+#### Interfaz Interactiva con React
+
+Nuestro frontend está construido con React, una librería de JavaScript ampliamente utilizada para crear interfaces de usuario interactivas. Utilizamos React para diseñar una experiencia atractiva y receptiva que permita a los usuarios explorar la historia de España de manera intuitiva.
+
+#### Diseño Moderno con Tailwind CSS
+
+Tailwind CSS es un marco de diseño utilitario que nos permite crear una interfaz moderna y estilizada. Utilizamos componentes y estilos predefinidos para agilizar el desarrollo y mantener una coherencia visual en toda la plataforma.
+
+## 📊 Procesamiento de Lenguaje Natural
+
 
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-azul)](https://opensource.org/licenses/MIT)
 
@@ -126,9 +165,8 @@ Embárcate en emocionantes misiones que te llevarán a desentrañar los secretos
 
 ¿Tienes preguntas o sugerencias sobre wiki3? ¡Nos encantaría escucharte! Ponte en contacto con nosotros a través de los siguientes canales:
 
-- Correo Electrónico: contact@wiki3.com
-- Twitter: [@wiki3](https://twitter.com/wiki3)
-- Discord: [Comunidad wiki3](https://discord.gg/wiki3)
+- Correo Electrónico: vicente@asimov.dev
+- Twitter: [@wiki3](https://twitter.com/kerberosai)
 
 ¡Únete a nosotros en la búsqueda del conocimiento histórico y la exploración de la historia de España!
 
